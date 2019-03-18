@@ -1,0 +1,5 @@
+/.sfdx
+/config
+/mdapipackage
+.forceignore
+sfdx-project

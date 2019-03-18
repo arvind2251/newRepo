@@ -1,0 +1,116 @@
+[
+    [
+        "C:\\Users\\Dell\\newRepo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\newRepo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552901328919,
+            "changeTime": 1552901328919,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\newRepo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\newRepo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552901328919,
+            "changeTime": 1552901328919,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\newRepo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\newRepo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552902738126,
+            "changeTime": 1552902738126,
+            "contentHash": "05024b18c29d62b8beaf03bddcec18e750d0fc50"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\newRepo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\newRepo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552901328919,
+            "changeTime": 1552901328919,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\newRepo\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\newRepo\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552901328920,
+            "changeTime": 1552901328920,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\newRepo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Dell\\newRepo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552901911147,
+            "changeTime": 1552901911147,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\newRepo\\force-app\\main\\default\\permissionsets\\Package1.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\newRepo\\force-app\\main\\default\\permissionsets\\Package1.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 445,
+            "modifiedTime": 1552902738134,
+            "changeTime": 1552902738134,
+            "contentHash": "33f2e965aef442a4d7d00f60b9f6b0f55eb0638b"
+        }
+    ],
+    [
+        "C:\\Users\\Dell\\newRepo\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Dell\\newRepo\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552902738131,
+            "changeTime": 1552902738131,
+            "contentHash": "aac3662747d358b0b090dcdacaff5e1dc2d1abee"
+        }
+    ]
+]
